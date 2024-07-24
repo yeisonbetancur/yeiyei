@@ -1,8 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, its Yeison🐱‍💻</h1>
 <h4 align="center">I'm a Software Engineering Student 🤡 at the Technological University of Pereira.(🗣 U T P)</h4>
-<iframe src="https://giphy.com/embed/UTHIqTrbRStcnhRcjk" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>-----
-<details>
+<p><a href="https://giphy.com/gifs/UTHIqTrbRStcnhRcjk">via GIPHY</a></p><details>
   <summary🤳 My Contact</summary>
 <div>
   <samp>
