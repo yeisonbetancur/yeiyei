@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yeison and I'm a Backend developer, from Colombia</h2>
+<h2 align="left">Hi 👋! My name is Yeison and I'm a Fullstack developer and Software Engineering student, from Colombia</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 
 <div align="left">
-  <h3>I work with<h3/>
+  <h3>I work with 🐱‍💻<h3/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -32,7 +32,7 @@
 
 ###
 
- <h3>Call me maybe<h3/>
+ <h3>Call me maybe 🤳<h3/>
 
 <div align="left">
   <a href="yeisonbetancur01234@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /><a/>
